@@ -1,0 +1,24 @@
+baseURL = 'https://www.erensoylu.com/'
+languageCode = 'en-uk'
+title = 'Eren SOYLU'
+theme = 'PaperMod'
+
+[[menu.main]]
+identifier = "Updates"
+name = "Updates"
+url = "/updates/"
+weight = 10
+
+[[menu.main]]
+identifier = "publications"
+name = "Publications"
+url = "/publications/"
+weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "About Me"
+url = "/about/"
+weight = 30
+
+

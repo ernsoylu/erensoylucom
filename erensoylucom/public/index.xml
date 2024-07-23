@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eren SOYLU</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Eren SOYLU</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 23 Jul 2024 16:47:36 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Website Update</title>
+      <link>http://localhost:1313/posts/001-websiteupdate/websiteupdate/</link>
+      <pubDate>Tue, 23 Jul 2024 16:47:36 +0100</pubDate>
+      <guid>http://localhost:1313/posts/001-websiteupdate/websiteupdate/</guid>
+      <description>Reasons for Website Update A new website update released. I started the use Hugo as a static website generator for more efficient experience for visitors. Also static website is more secure and I am able to host securely this website in my homelab.
+What Will be Change There is no change on update in this website. The main purpose of this website still sharing my insights and ideas about technology, also as a sub purpose, I am using this website as a reminder of previous projects I made.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hi,
+I am Eren SOYLU. I am working in industry as an engineer, researcher, developer, and control system architect almost 10 years. You can contact me from my LinkedIn Page.
+Regards.
+Eren</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>Peer-Reviewed Publications a b c </description>
+    </item>
+    <item>
+      <title>Updates</title>
+      <link>http://localhost:1313/updates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/updates/</guid>
+      <description>July 2024 a b c </description>
+    </item>
+  </channel>
+</rss>

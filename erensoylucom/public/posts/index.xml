@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Eren SOYLU</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://www.erensoylu.com/posts/</link>
     <description>Recent content in Posts on Eren SOYLU</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 23 Jul 2024 16:47:36 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.erensoylu.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Website Update</title>
-      <link>http://localhost:1313/posts/001-websiteupdate/websiteupdate/</link>
+      <link>https://www.erensoylu.com/posts/001-websiteupdate/websiteupdate/</link>
       <pubDate>Tue, 23 Jul 2024 16:47:36 +0100</pubDate>
-      <guid>http://localhost:1313/posts/001-websiteupdate/websiteupdate/</guid>
+      <guid>https://www.erensoylu.com/posts/001-websiteupdate/websiteupdate/</guid>
+      <description>This is a description line defined in website.</description>
+    </item>
+    <item>
+      <title>This is second post as sample</title>
+      <link>https://www.erensoylu.com/posts/002-samplepost2/samplepost2/</link>
+      <pubDate>Tue, 23 Jul 2024 16:47:36 +0100</pubDate>
+      <guid>https://www.erensoylu.com/posts/002-samplepost2/samplepost2/</guid>
       <description>Reasons for Website Update A new website update released. I started the use Hugo as a static website generator for more efficient experience for visitors. Also static website is more secure and I am able to host securely this website in my homelab.
 What Will be Change There is no change on update in this website. The main purpose of this website still sharing my insights and ideas about technology, also as a sub purpose, I am using this website as a reminder of previous projects I made.</description>
     </item>

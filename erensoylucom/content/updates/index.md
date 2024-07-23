@@ -2,6 +2,7 @@
 title = 'Updates'
 draft = false
 type= 'page'
+ShowToc= true
 +++
 
 ## July 2024

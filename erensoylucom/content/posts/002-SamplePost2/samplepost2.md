@@ -1,6 +1,5 @@
 +++
-title = 'New Website Update'
-description='This is a description line defined in website.'
+title = 'This is second post as sample'
 date = 2024-07-23T16:47:36+01:00
 draft = false
 ShowToc= true

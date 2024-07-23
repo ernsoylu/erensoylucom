@@ -13,6 +13,13 @@
       <link>http://localhost:1313/posts/001-websiteupdate/websiteupdate/</link>
       <pubDate>Tue, 23 Jul 2024 16:47:36 +0100</pubDate>
       <guid>http://localhost:1313/posts/001-websiteupdate/websiteupdate/</guid>
+      <description>This is a description line defined in website.</description>
+    </item>
+    <item>
+      <title>This is second post as sample</title>
+      <link>http://localhost:1313/posts/002-samplepost2/samplepost2/</link>
+      <pubDate>Tue, 23 Jul 2024 16:47:36 +0100</pubDate>
+      <guid>http://localhost:1313/posts/002-samplepost2/samplepost2/</guid>
       <description>Reasons for Website Update A new website update released. I started the use Hugo as a static website generator for more efficient experience for visitors. Also static website is more secure and I am able to host securely this website in my homelab.
 What Will be Change There is no change on update in this website. The main purpose of this website still sharing my insights and ideas about technology, also as a sub purpose, I am using this website as a reminder of previous projects I made.</description>
     </item>
